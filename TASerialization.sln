@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TASerialization", "TASerialization\TASerialization.csproj", "{A87E4457-5484-4977-9DD1-8884144FCF0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A87E4457-5484-4977-9DD1-8884144FCF0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A87E4457-5484-4977-9DD1-8884144FCF0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A87E4457-5484-4977-9DD1-8884144FCF0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A87E4457-5484-4977-9DD1-8884144FCF0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51715A5C-3B9B-4267-BA34-06E3FE8EAE23}
+	EndGlobalSection
+EndGlobal
